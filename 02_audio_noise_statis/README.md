@@ -3,7 +3,7 @@
 Direktori ini berisi penyelesaian Tugas 2 (Individu) Week 03. Fokus tugas ini adalah mengeksplorasi representasi audio 4 dimensi dan menguji dampak *resampling* serta efek *aliasing* pada audio dengan derau statis.
 
 ## Dokumentasi Perekaman
-* **Perangkat Perekam:** Asus ROG String G16
+* **Perangkat Perekam:** Asus ROG Strix G16
 * **Sumber Noise Statis:** Kipas Angin
 * **Deskripsi:** Rekaman suara membaca artikel berita dengan latar belakang derau statis konstan.
 
